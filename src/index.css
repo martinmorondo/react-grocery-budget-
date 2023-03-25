@@ -268,13 +268,13 @@ p {
 }
 
 .btn {
+  padding: 0.5rem;
   display: flex;
   align-items: center;
   justify-content: center;
   border: none;
   border-radius: 0.25rem;
   font-size: 1rem;
-  color: #fff;
   cursor: pointer;
   transition: all 0.2s ease-in-out;
 }
